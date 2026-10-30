@@ -1,0 +1,461 @@
+[
+  {
+    "id": "a1",
+    "artist_id": "1",
+    "title": "Slipknot",
+    "release_year": 1999,
+    "label": "Roadrunner Records",
+    "barcode": "016861823725",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a2",
+    "artist_id": "1",
+    "title": "Iowa",
+    "release_year": 2001,
+    "label": "Roadrunner Records",
+    "barcode": "016861833526",
+    "cover_image_url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a3",
+    "artist_id": "1",
+    "title": "Vol. 3: (The Subliminal Verses)",
+    "release_year": 2004,
+    "label": "Roadrunner Records",
+    "barcode": "016861817526",
+    "cover_image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a4",
+    "artist_id": "1",
+    "title": "All Hope Is Gone",
+    "release_year": 2008,
+    "label": "Roadrunner Records",
+    "barcode": "016861790621",
+    "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a5",
+    "artist_id": "1",
+    "title": ".5: The Gray Chapter",
+    "release_year": 2014,
+    "label": "Roadrunner Records",
+    "barcode": "016861763127",
+    "cover_image_url": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a6",
+    "artist_id": "1",
+    "title": "We Are Not Your Kind",
+    "release_year": 2019,
+    "label": "Roadrunner Records",
+    "barcode": "016861745225",
+    "cover_image_url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a7",
+    "artist_id": "1",
+    "title": "The End, So Far",
+    "release_year": 2022,
+    "label": "Roadrunner Records",
+    "barcode": "016861715822",
+    "cover_image_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a8",
+    "artist_id": "2",
+    "title": "Creatures",
+    "release_year": 2010,
+    "label": "Fearless Records",
+    "barcode": "793018328124",
+    "cover_image_url": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a9",
+    "artist_id": "2",
+    "title": "Infamous",
+    "release_year": 2012,
+    "label": "Fearless Records",
+    "barcode": "793018342120",
+    "cover_image_url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a10",
+    "artist_id": "2",
+    "title": "Reincarnate",
+    "release_year": 2014,
+    "label": "Fearless Records",
+    "barcode": "793018349228",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a11",
+    "artist_id": "2",
+    "title": "Graveyard Shift",
+    "release_year": 2017,
+    "label": "Roadrunner Records",
+    "barcode": "016861749728",
+    "cover_image_url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a12",
+    "artist_id": "2",
+    "title": "Disguise",
+    "release_year": 2019,
+    "label": "Roadrunner Records",
+    "barcode": "016861739026",
+    "cover_image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a13",
+    "artist_id": "2",
+    "title": "Scoring the End of the World",
+    "release_year": 2022,
+    "label": "Roadrunner Records",
+    "barcode": "016861714221",
+    "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a13_5",
+    "artist_id": "2",
+    "title": "Decades",
+    "release_year": 2026,
+    "label": "Roadrunner Records",
+    "barcode": "016861708892",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a14",
+    "artist_id": "3",
+    "title": "I Brought You My Bullets, You Brought Me Your Love",
+    "release_year": 2002,
+    "label": "Eyeball Records",
+    "barcode": "634479210222",
+    "cover_image_url": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a15",
+    "artist_id": "3",
+    "title": "Three Cheers for Sweet Revenge",
+    "release_year": 2004,
+    "label": "Reprise Records",
+    "barcode": "093624868027",
+    "cover_image_url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a16",
+    "artist_id": "3",
+    "title": "The Black Parade",
+    "release_year": 2006,
+    "label": "Reprise Records",
+    "barcode": "093624431023",
+    "cover_image_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a17",
+    "artist_id": "3",
+    "title": "Danger Days: The True Lives of the Fabulous Killjoys",
+    "release_year": 2010,
+    "label": "Reprise Records",
+    "barcode": "093624962299",
+    "cover_image_url": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a18",
+    "artist_id": "4",
+    "title": "System of a Down",
+    "release_year": 1998,
+    "label": "American Recordings",
+    "barcode": "636943968523",
+    "cover_image_url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a19",
+    "artist_id": "4",
+    "title": "Toxicity",
+    "release_year": 2001,
+    "label": "American Recordings",
+    "barcode": "601501308929",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a20",
+    "artist_id": "4",
+    "title": "Steal This Album!",
+    "release_year": 2002,
+    "label": "American Recordings",
+    "barcode": "601501334225",
+    "cover_image_url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a21",
+    "artist_id": "4",
+    "title": "Mezmerize",
+    "release_year": 2005,
+    "label": "Columbia Records",
+    "barcode": "827969082724",
+    "cover_image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a22",
+    "artist_id": "4",
+    "title": "Hypnotize",
+    "release_year": 2005,
+    "label": "Columbia Records",
+    "barcode": "827969811621",
+    "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a23",
+    "artist_id": "5",
+    "title": "21st Century Liability",
+    "release_year": 2018,
+    "label": "Locomotion / Polydor",
+    "barcode": "602567702819",
+    "cover_image_url": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a24",
+    "artist_id": "5",
+    "title": "Weird!",
+    "release_year": 2020,
+    "label": "Locomotion / Polydor",
+    "barcode": "602435032912",
+    "cover_image_url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a25",
+    "artist_id": "5",
+    "title": "Yungblud",
+    "release_year": 2022,
+    "label": "Locomotion / Polydor",
+    "barcode": "060244833214",
+    "cover_image_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a26",
+    "artist_id": "5",
+    "title": "Idols",
+    "release_year": 2025,
+    "label": "Locomotion / Capitol Records",
+    "barcode": "0602478045554",
+    "cover_image_url": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a27",
+    "artist_id": "6",
+    "title": "Permanent Vacation",
+    "release_year": 1987,
+    "label": "Geffen Records",
+    "barcode": "720182415926",
+    "cover_image_url": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a28",
+    "artist_id": "6",
+    "title": "Pump",
+    "release_year": 1989,
+    "label": "Geffen Records",
+    "barcode": "720182414127",
+    "cover_image_url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a29",
+    "artist_id": "6",
+    "title": "Get a Grip",
+    "release_year": 1993,
+    "label": "Geffen Records",
+    "barcode": "720182415629",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a30",
+    "artist_id": "6",
+    "title": "Nine Lives",
+    "release_year": 1997,
+    "label": "Columbia Records",
+    "barcode": "743214695027",
+    "cover_image_url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a31",
+    "artist_id": "7",
+    "title": "Around the Fur",
+    "release_year": 1997,
+    "label": "Maverick Records",
+    "barcode": "093624681022",
+    "cover_image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a32",
+    "artist_id": "7",
+    "title": "White Pony",
+    "release_year": 2000,
+    "label": "Maverick Records",
+    "barcode": "093624771327",
+    "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a33",
+    "artist_id": "7",
+    "title": "Deftones",
+    "release_year": 2003,
+    "label": "Maverick Records",
+    "barcode": "093624882023",
+    "cover_image_url": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a34",
+    "artist_id": "8",
+    "title": "Fallen",
+    "release_year": 2003,
+    "label": "Wind-up Records",
+    "barcode": "724357762121",
+    "cover_image_url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a35",
+    "artist_id": "8",
+    "title": "The Open Door",
+    "release_year": 2006,
+    "label": "Wind-up Records",
+    "barcode": "601501131220",
+    "cover_image_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a36",
+    "artist_id": "9",
+    "title": "Led Zeppelin II",
+    "release_year": 1969,
+    "label": "Atlantic Records",
+    "barcode": "075678261228",
+    "cover_image_url": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a37",
+    "artist_id": "9",
+    "title": "Led Zeppelin IV",
+    "release_year": 1971,
+    "label": "Atlantic Records",
+    "barcode": "075678261327",
+    "cover_image_url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a38",
+    "artist_id": "10",
+    "title": "Nevermind",
+    "release_year": 1991,
+    "label": "DGC Records",
+    "barcode": "720182442526",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a39",
+    "artist_id": "10",
+    "title": "In Utero",
+    "release_year": 1993,
+    "label": "DGC Records",
+    "barcode": "720182460728",
+    "cover_image_url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a40",
+    "artist_id": "11",
+    "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+    "release_year": 1972,
+    "label": "RCA Records",
+    "barcode": "078636746227",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a41",
+    "artist_id": "11",
+    "title": "Heroes",
+    "release_year": 1977,
+    "label": "RCA Records",
+    "barcode": "078636772028",
+    "cover_image_url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a42",
+    "artist_id": "12",
+    "title": "Disintegration",
+    "release_year": 1989,
+    "label": "Fiction Records",
+    "barcode": "042283935323",
+    "cover_image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a43",
+    "artist_id": "12",
+    "title": "Wish",
+    "release_year": 1992,
+    "label": "Fiction Records",
+    "barcode": "042251113524",
+    "cover_image_url": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a44",
+    "artist_id": "13",
+    "title": "(What's the Story) Morning Glory?",
+    "release_year": 1995,
+    "label": "Creation Records",
+    "barcode": "5024545550228",
+    "cover_image_url": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a45",
+    "artist_id": "13",
+    "title": "Definitely Maybe",
+    "release_year": 1994,
+    "label": "Creation Records",
+    "barcode": "5024545500223",
+    "cover_image_url": "https://images.unsplash.com/photo-1465847899084-d164df4dedc6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a46",
+    "artist_id": "14",
+    "title": "Dookie",
+    "release_year": 1994,
+    "label": "Reprise Records",
+    "barcode": "093624552926",
+    "cover_image_url": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a47",
+    "artist_id": "14",
+    "title": "American Idiot",
+    "release_year": 2004,
+    "label": "Reprise Records",
+    "barcode": "093624877722",
+    "cover_image_url": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a48",
+    "artist_id": "15",
+    "title": "Brutalism",
+    "release_year": 2017,
+    "label": "Partisan Records",
+    "barcode": "0720841215121",
+    "cover_image_url": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a49",
+    "artist_id": "15",
+    "title": "Joy as an Act of Resistance",
+    "release_year": 2018,
+    "label": "Partisan Records",
+    "barcode": "0720841217316",
+    "cover_image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "a50",
+    "artist_id": "5",
+    "title": "Yungblud & Aerosmith Collaboration EP / Project",
+    "release_year": 2026,
+    "label": "Locomotion / Geffen",
+    "barcode": "0602448339999",
+    "cover_image_url": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=600&q=80"
+  }
+]

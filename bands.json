@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Slipknot",
+    "genre": "Nu-Metal / Metal",
+    "bio": "Amerikaanse metalband opgericht in Des Moines, Iowa, bekend om hun agressieve stijl, maskers en energieke optredens."
+  },
+  {
+    "id": "2",
+    "name": "Motionless in White",
+    "genre": "Gothic Metal / Metalcore",
+    "bio": "Amerikaanse metalband uit Scranton, Pennsylvania, sterk beïnvloed door horror, goth-esthetiek en industrial metal."
+  },
+  {
+    "id": "3",
+    "name": "My Chemical Romance",
+    "genre": "Emo / Alternative Rock",
+    "bio": "Iconische Amerikaanse rockband uit New Jersey, leiders van de emo- en alternative rockbeweging van de jaren 2000."
+  },
+  {
+    "id": "4",
+    "name": "System of a Down",
+    "genre": "Nu-Metal / Alternative Metal",
+    "bio": "Armeens-Amerikaanse rockband opgericht in Los Angeles, bekend om hun unieke mix van metal, folklore en politieke teksten."
+  },
+  {
+    "id": "5",
+    "name": "Yungblud",
+    "genre": "Alternative Rock / Pop-Punk",
+    "bio": "Britse singer-songwriter die punk, rock en hiphop combineert met een rebelse en openhartige boodschap."
+  },
+  {
+    "id": "6",
+    "name": "Aerosmith",
+    "genre": "Classic Rock / Hard Rock",
+    "bio": "De legendarische 'Bad Boys from Boston', opgericht in 1970, en een van de grootste hardrockbands uit de VS."
+  },
+  {
+    "id": "7",
+    "name": "Deftones",
+    "genre": "Alternative Metal / Shoegaze",
+    "bio": "Invloedrijke band uit Sacramento die rauwe metal combineert met sfeervolle, dromerige shoegaze-elementen."
+  },
+  {
+    "id": "8",
+    "name": "Evanescence",
+    "genre": "Gothic Metal / Alternative Rock",
+    "bio": "Band rondom frontvrouw Amy Lee, bekend om hun donkere, symfonische gotische rocknummers met krachtige vocalen."
+  },
+  {
+    "id": "9",
+    "name": "Led Zeppelin",
+    "genre": "Jaren 70 Rock / Hard Rock",
+    "bio": "Britse rockband opgericht in 1968, pioniers van de hardrock en heavy metal met blues-invloeden."
+  },
+  {
+    "id": "10",
+    "name": "Nirvana",
+    "genre": "Jaren 90 Rock / Grunge",
+    "bio": "De iconische grungeband uit Seattle onder leiding van Kurt Cobain die de rockmuziek in de jaren 90 definitief veranderde."
+  },
+  {
+    "id": "11",
+    "name": "David Bowie",
+    "genre": "Classic Rock / Glam Rock",
+    "bio": "De Britse muzikale kameleon en stijlicoon die decennialang de pop- en rockmuziek opnieuw uitvond; een groot idool van Yungblud."
+  },
+  {
+    "id": "12",
+    "name": "The Cure",
+    "genre": "Gothic Rock / Post-Punk",
+    "bio": "Invloedrijke Britse band rond Robert Smith, bekend om hun melancholische goth-sound, unieke sfeer en kenmerkende uiterlijk."
+  },
+  {
+    "id": "13",
+    "name": "Oasis",
+    "genre": "Britpop / Jaren 90 Rock",
+    "bio": "De legendarische Britse band uit Manchester geleid door de gebroeders Gallagher, cruciaal voor de Britpop-revolutie."
+  },
+  {
+    "id": "14",
+    "name": "Green Day",
+    "genre": "Punk Rock / Pop-Punk",
+    "bio": "Invloedrijke Amerikaanse punkband die de punk-revival van de jaren 90 leidde met energieke anthems en politieke platen."
+  },
+  {
+  "id": "15",
+  "name": "IDLES",
+  "genre": "Post-Punk / Punk Rock",
+  "bio": "Britse post-punkband uit Bristol, opgericht in 2009, bekend om hun rauwe geluid, intense energie en maatschappijkritische teksten."
+  }
+]
